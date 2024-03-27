@@ -55,6 +55,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 <div align="center">
+  <table>
+    <tr>
   <p align="left">
   <a href="https://git.io/streak-stats" align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=517" alt="GitHub Streak" />
@@ -65,6 +67,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark"/>
   </a> 
  </p>
+      </tr>
+    </table>
 </div>
 
 
