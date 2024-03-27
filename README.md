@@ -60,6 +60,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </a>
 </div>
 
+---
 
-<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
