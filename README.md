@@ -55,7 +55,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <a href="https://git.io/streak-stats" align="left">
