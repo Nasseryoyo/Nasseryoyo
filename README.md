@@ -54,4 +54,5 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo)](https://github.com/anuraghazra/github-readme-stats)
