@@ -5,13 +5,12 @@
   <a href="https://www.linkedin.com/in/youssef-nasser-ashour/" display="inline-block">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=Nasseryoyo&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
-<div align="center">
-  Hi there 👋
-</div>
+<img src="https://komarev.com/ghpvc/?username=Nasseryoyo&style=flat-square&color=blue" alt=""/>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 <!--
