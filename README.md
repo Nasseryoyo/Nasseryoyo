@@ -57,18 +57,18 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <div align="center">
   <table>
     <tr>
-  <p align="left">
-  <a href="https://git.io/streak-stats" align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=517" alt="GitHub Streak" />
-</a>
-</p>
-  <p align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark"/>
-  </a> 
- </p>
-      </tr>
-    </table>
+      <td>
+        <a href="https://git.io/streak-stats" align="left">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=517" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark"/>
+        </a> 
+      </td>
+    </tr>
+  </table>
 </div>
 
 
