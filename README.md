@@ -64,7 +64,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
       </td>
       <td border="0">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark"/>
+          <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark&card_width=300"/>
         </a> 
       </td>
     </tr>
