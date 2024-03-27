@@ -59,7 +59,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <tr border="0">
       <td border="0">
         <a href="https://git.io/streak-stats" align="left">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=517" alt="GitHub Streak" />
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
         </a>
       </td>
       <td border="0">
