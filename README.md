@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/youssef-nasser-ashour/" display="inline-block">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a>
+  <a display="inline-block">
     <img src="https://komarev.com/ghpvc/?username=Nasseryoyo&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
