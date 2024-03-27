@@ -54,7 +54,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nasseryoyo&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=517" alt="GitHub Streak" />
+</a>
 
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasseryoyo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
